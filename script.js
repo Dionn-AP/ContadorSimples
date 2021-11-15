@@ -10,7 +10,7 @@ var contxt2 = Number(txt2.value)
 
 if (contxt1 > contxt2 || contxt1 == contxt2 || contxt1 == 0 || contxt2 == 0 || mult == 0 || (mult > contxt2)) {
     window.alert('Dados incorretos. Verifique e tente novamente.')
-    (mult > contxt1)
+
 } else {
     var resultado = ''
     
